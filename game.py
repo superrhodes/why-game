@@ -27,7 +27,7 @@ color = 66, 158, 245
 fps = 0
 
 screen = pygame.display.set_mode(size)
-icon = pygame.image.load("assets/button1.png").convert_alpha()
+icon = pygame.image.load("assets/icon.png").convert_alpha()
 pygame.display.set_icon(icon)
 
 from world import *

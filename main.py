@@ -96,7 +96,7 @@ ms = int((values[2])[0])
 
 root = Tk()
 root.title("A terrible game")
-icon = PhotoImage(file = "assets/button1.png")
+icon = PhotoImage(file = "assets/icon.png")
 root.iconphoto(False, icon)
 
 ws = root.winfo_screenwidth()
